@@ -1,0 +1,30 @@
+{
+  "name": "tn-restful-model",
+  "version": "0.1.0",
+  "description": "javascript models work with restful apis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TooNote/MdEditor.git"
+  },
+  "keywords": [
+    "restful",
+    "client",
+    "model"
+  ],
+  "author": "TooBug <i@toobug.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TooNote/MdEditor/issues"
+  },
+  "homepage": "https://github.com/TooNote/MdEditor#readme",
+  "devDependencies": {
+    "eslint": "^4.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
